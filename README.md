@@ -12,3 +12,6 @@ Veja como a lenda de um sonhador, um artesão e uma guerreira se desenrola, em u
 - Esta Tech-demo possui uma luta contra um boss como testes de aceitação
 - Cutscene Integrada
 - IU de Batalha completa
+
+## Gameplay 🎮
+[![ALT TEXT](https://img.youtube.com/vi/iHMMJKsrBN8.jpg)](https://www.youtube.com/watch?v=iHMMJKsrBN8)
